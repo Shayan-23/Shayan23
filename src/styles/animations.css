@@ -1,0 +1,8 @@
+/* Animations and transitions */
+@keyframes fadeIn { /* ... */ }
+@keyframes spin { /* ... */ }
+@keyframes pulse { /* ... */ }
+/* etc */
+
+.transaction { animation: fadeIn 0.3s ease; }
+/* Other animation implementations */ 

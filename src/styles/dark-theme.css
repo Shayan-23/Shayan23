@@ -1,0 +1,8 @@
+/* Dark theme styles */
+[data-theme='dark'] {
+  /* Dark theme variables */
+}
+
+[data-theme='dark'] .container { /* ... */ }
+[data-theme='dark'] .summary-item { /* ... */ }
+/* etc */ 
